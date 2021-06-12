@@ -1,0 +1,52 @@
+.nav{
+    margin-top: 50px;
+}
+.collapse{
+    padding-bottom: 100px;
+}
+.one{
+    margin: 20px;
+}
+#imgbox{
+    margin-top: 80px;
+}
+.imgs{
+    text-align: center;
+}
+.imgs img{
+    width: 138px;
+    border-radius: 5px;
+}
+.imgsn img{
+    width: 50px;
+    border-radius: 5px;
+}
+.imgsn{
+    text-align: center;
+}
+
+.ul1{
+    text-align: center;
+    list-style: none;
+}
+.li1 img{
+    width: 60vw;
+    border-radius: 5px;
+}
+.li2 img{
+    width: 60vw;
+    border-radius: 5px;
+}
+.li3 img{
+    width: 60vw;
+    border-radius: 5px;
+}
+.foot{
+    background-color: black;
+    color: white;
+}
+.foot1{
+    margin: 40px;
+    margin-bottom: 5px;
+    padding: 20px;
+}
